@@ -5,9 +5,169 @@
     <description>Morning</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 31 Jul 2018 11:08:31 -0700</pubDate>
-    <lastBuildDate>Tue, 31 Jul 2018 11:08:31 -0700</lastBuildDate>
+    <pubDate>Tue, 31 Jul 2018 11:42:09 -0700</pubDate>
+    <lastBuildDate>Tue, 31 Jul 2018 11:42:09 -0700</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Definition of End to End User Scenarios</title>
+        <description>&lt;h3 id=&quot;end-to-end&quot;&gt;End to end?&lt;/h3&gt;
+
+&lt;p&gt;To explain what is “End to End User Scenarios”, we should first explain what is “End to End”, which we can called E2E for short.&lt;/p&gt;
+
+&lt;p&gt;There is not a very clear definition of E2E in wiki.&lt;sup&gt;&lt;a href=&quot;#ref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; In dictionary, it can both refer to “throughout” or “the end of one object connect to the end of another object”.&lt;sup&gt;&lt;a href=&quot;#ref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;E2E is usually used in Logistics, Computer Networking and Software Testing. For example, End-to-end testing is a methodology used to test whether the flow of an application is performing as designed from start to finish. The entire application is tested in a real-world scenario.&lt;/p&gt;
+
+&lt;p&gt;So in my view, the most essential part of E2E is that &lt;strong&gt;we must focus on the entire process, including every parts in a use case.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;user-scenarios&quot;&gt;User Scenarios!&lt;/h3&gt;
+
+&lt;p&gt;User scenarios is a common term in UX Design,&lt;sup&gt;&lt;a href=&quot;#ref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;#ref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt; which expands upon our persona and user stories by including details. It told us about users’ motivation, goals and actions on our products.&lt;/p&gt;
+
+&lt;p&gt;To make it better, there comes &lt;strong&gt;“End to End User Scenarios”, not just tell a fragment of users’ activities, but pay attention to the entire process the user undergoes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That means we should consider the whole things from the start point that user want to use our products to the ended up point that user get results and leave our products.&lt;/p&gt;
+
+&lt;p&gt;Only when we know &lt;strong&gt;who&lt;/strong&gt; does &lt;strong&gt;what&lt;/strong&gt; on our products, &lt;strong&gt;how&lt;/strong&gt; and &lt;strong&gt;why&lt;/strong&gt; they do it, can we define design requirements concrete enough to actually meet them. So it really helps us to improve our UX of our products.&lt;/p&gt;
+
+&lt;h3 id=&quot;lets-go-deeper&quot;&gt;Let’s go deeper…&lt;/h3&gt;
+
+&lt;p&gt;We just put the two terms together and give it a explanation, but it can be farther. When we truly design an experience, End to End User Scenarios can helps more:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Extend the scope&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is a interesting instance &lt;sup&gt;&lt;a href=&quot;#ref5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt; told that sometimes we are already satisfy of our designed UX, but if we look beyond the both ends of the designed experience by extending the scope of the timeline before and after… we may sadly realize that it’s a complete car crash outside the scope of the designed experience…&lt;/p&gt;
+
+&lt;p&gt;Try to extend the scope and consider more, so can we design a much broader experience for our user.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Shorten the path&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;UX Designers always dive into a User Flow and try to shorten the user paths. The idea of End to End User Scenarios can do the same things.&lt;/p&gt;
+
+&lt;p&gt;For example, in the past, if I want to know the weather today. I should typically visit a search engine website, input and search “weather”, click the first link that search result page shows, then jump into a kind of weather website like “The Weather Channel”, and finally, I got today’s weather information!&lt;/p&gt;
+
+&lt;p&gt;But wait! &lt;strong&gt;Just consider it using “End to End User Scenarios”&lt;/strong&gt;, I just want to know about weather so I use search engine right? why should I took a so long user path to get there? Smart Search Engine should told me the weather directly.&lt;/p&gt;
+
+&lt;p&gt;That is what all search engine have doing nowadays.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-sum&quot;&gt;In sum&lt;/h3&gt;
+
+&lt;p&gt;There is many design tools like “End to End User Scenarios” were used by designers, they are really awesome. But the most essential things in my opinion is, still, always thinking about user. All this tools are powerful only based on a truly user-centric mind.&lt;/p&gt;
+
+&lt;p&gt;From my perspective, the “End to End User Scenarios” can be generally defined as &lt;strong&gt;“Entire Process Considered, User Requirement Centric, Anticipated Experince Design”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s all, thank you.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;1.&lt;a id=&quot;ref1&quot;&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/End-to-end&quot;&gt;End-to-end - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.&lt;a id=&quot;ref2&quot;&gt;&lt;a href=&quot;http://www.thefreedictionary.com/end-to-end&quot;&gt;end-to-end - definition of end-to-end by The Free Dictionary&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3.&lt;a id=&quot;ref3&quot;&gt;&lt;a href=&quot;http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/&quot;&gt;How User Scenarios Help To Improve Your UX - The Usabilla Blog&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4.&lt;a id=&quot;ref4&quot;&gt;&lt;a href=&quot;https://www.newfangled.com/how-to-tell-the-users-story/&quot;&gt;How to Create User Stories, Scenarios, and Cases&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;5.&lt;a id=&quot;ref5&quot;&gt;&lt;a href=&quot;http://www.90percentofeverything.com/2008/11/11/designing-end-to-end-user-experiences/&quot;&gt;Designing end-to-end user experiences. | 90 Percent Of Everything&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 31 Mar 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/03/31/e2e_user_scenarios/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/31/e2e_user_scenarios/</guid>
+        
+        <category>交互设计</category>
+        
+        <category>English-only</category>
+        
+        <category>UX Design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Definition of End to End User Scenarios</title>
+        <description>&lt;h3 id=&quot;end-to-end&quot;&gt;End to end?&lt;/h3&gt;
+
+&lt;p&gt;To explain what is “End to End User Scenarios”, we should first explain what is “End to End”, which we can called E2E for short.&lt;/p&gt;
+
+&lt;p&gt;There is not a very clear definition of E2E in wiki.&lt;sup&gt;&lt;a href=&quot;#ref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; In dictionary, it can both refer to “throughout” or “the end of one object connect to the end of another object”.&lt;sup&gt;&lt;a href=&quot;#ref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;E2E is usually used in Logistics, Computer Networking and Software Testing. For example, End-to-end testing is a methodology used to test whether the flow of an application is performing as designed from start to finish. The entire application is tested in a real-world scenario.&lt;/p&gt;
+
+&lt;p&gt;So in my view, the most essential part of E2E is that &lt;strong&gt;we must focus on the entire process, including every parts in a use case.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;user-scenarios&quot;&gt;User Scenarios!&lt;/h3&gt;
+
+&lt;p&gt;User scenarios is a common term in UX Design,&lt;sup&gt;&lt;a href=&quot;#ref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;#ref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt; which expands upon our persona and user stories by including details. It told us about users’ motivation, goals and actions on our products.&lt;/p&gt;
+
+&lt;p&gt;To make it better, there comes &lt;strong&gt;“End to End User Scenarios”, not just tell a fragment of users’ activities, but pay attention to the entire process the user undergoes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That means we should consider the whole things from the start point that user want to use our products to the ended up point that user get results and leave our products.&lt;/p&gt;
+
+&lt;p&gt;Only when we know &lt;strong&gt;who&lt;/strong&gt; does &lt;strong&gt;what&lt;/strong&gt; on our products, &lt;strong&gt;how&lt;/strong&gt; and &lt;strong&gt;why&lt;/strong&gt; they do it, can we define design requirements concrete enough to actually meet them. So it really helps us to improve our UX of our products.&lt;/p&gt;
+
+&lt;h3 id=&quot;lets-go-deeper&quot;&gt;Let’s go deeper…&lt;/h3&gt;
+
+&lt;p&gt;We just put the two terms together and give it a explanation, but it can be farther. When we truly design an experience, End to End User Scenarios can helps more:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Extend the scope&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is a interesting instance &lt;sup&gt;&lt;a href=&quot;#ref5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt; told that sometimes we are already satisfy of our designed UX, but if we look beyond the both ends of the designed experience by extending the scope of the timeline before and after… we may sadly realize that it’s a complete car crash outside the scope of the designed experience…&lt;/p&gt;
+
+&lt;p&gt;Try to extend the scope and consider more, so can we design a much broader experience for our user.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Shorten the path&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;UX Designers always dive into a User Flow and try to shorten the user paths. The idea of End to End User Scenarios can do the same things.&lt;/p&gt;
+
+&lt;p&gt;For example, in the past, if I want to know the weather today. I should typically visit a search engine website, input and search “weather”, click the first link that search result page shows, then jump into a kind of weather website like “The Weather Channel”, and finally, I got today’s weather information!&lt;/p&gt;
+
+&lt;p&gt;But wait! &lt;strong&gt;Just consider it using “End to End User Scenarios”&lt;/strong&gt;, I just want to know about weather so I use search engine right? why should I took a so long user path to get there? Smart Search Engine should told me the weather directly.&lt;/p&gt;
+
+&lt;p&gt;That is what all search engine have doing nowadays.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-sum&quot;&gt;In sum&lt;/h3&gt;
+
+&lt;p&gt;There is many design tools like “End to End User Scenarios” were used by designers, they are really awesome. But the most essential things in my opinion is, still, always thinking about user. All this tools are powerful only based on a truly user-centric mind.&lt;/p&gt;
+
+&lt;p&gt;From my perspective, the “End to End User Scenarios” can be generally defined as &lt;strong&gt;“Entire Process Considered, User Requirement Centric, Anticipated Experince Design”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s all, thank you.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;1.&lt;a id=&quot;ref1&quot;&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/End-to-end&quot;&gt;End-to-end - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.&lt;a id=&quot;ref2&quot;&gt;&lt;a href=&quot;http://www.thefreedictionary.com/end-to-end&quot;&gt;end-to-end - definition of end-to-end by The Free Dictionary&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3.&lt;a id=&quot;ref3&quot;&gt;&lt;a href=&quot;http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/&quot;&gt;How User Scenarios Help To Improve Your UX - The Usabilla Blog&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4.&lt;a id=&quot;ref4&quot;&gt;&lt;a href=&quot;https://www.newfangled.com/how-to-tell-the-users-story/&quot;&gt;How to Create User Stories, Scenarios, and Cases&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;5.&lt;a id=&quot;ref5&quot;&gt;&lt;a href=&quot;http://www.90percentofeverything.com/2008/11/11/designing-end-to-end-user-experiences/&quot;&gt;Designing end-to-end user experiences. | 90 Percent Of Everything&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2015/03/31/e2e_user_scenarios-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/03/31/e2e_user_scenarios-2/</guid>
+        
+        <category>交互设计</category>
+        
+        <category>English-only</category>
+        
+        <category>UX Design</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
