@@ -5,13 +5,15 @@
     <description>Morning</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Aug 2018 16:04:33 -0700</pubDate>
-    <lastBuildDate>Thu, 02 Aug 2018 16:04:33 -0700</lastBuildDate>
+    <pubDate>Fri, 03 Aug 2018 14:46:04 -0700</pubDate>
+    <lastBuildDate>Fri, 03 Aug 2018 14:46:04 -0700</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>Hello World</title>
         <description>&lt;p&gt;第一篇文章。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://o7oeqrr1h.bkt.clouddn.com/18-8-4/94994979.jpg&quot; alt=&quot;Cool1&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
