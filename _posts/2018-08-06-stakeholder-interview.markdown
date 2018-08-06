@@ -1,9 +1,12 @@
 ---
 layout:     post
-title:      "利益相关者访谈指南[TBD]"
+title:        "利益相关者访谈指南[TBD]"
 subtitle:   "Stakeholder Interview资料及工具"
 date:       2018-08-06 
 author:     "Charles"
+header-mask:  0.3
+catalog:      true
+multilingual: false
 tags:
 	- UX
 	- Stakeholder Interview
@@ -14,10 +17,12 @@ tags:
 ## 工具网站：
 
 -  [talebook][1]-调研辅助工具 `EN`
+
 注册之后可以新建一个项目，里面有常见的所有调研模板比如竞品分析、用户访谈、利益相关者访谈、人物建模等等，可以直接套用在你的项目里。
 免费一个月，一个月后收费：每月$8。
 
 - [boxesandarrows][2]-更多问题模板 `EN`
+
 更详细的访谈问题模板，包括如何问市场、销售、项目管理、开发等部门的人。还有一些注意事项
 
 
