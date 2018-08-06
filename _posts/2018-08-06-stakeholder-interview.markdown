@@ -70,3 +70,4 @@ Allow the interview to go off-script if necessary.
 [2]:	http://boxesandarrows.com/a-stakeholder-interview-checklist/
 [3]:	https://zhuanlan.zhihu.com/p/36838131%20
 [4]:	https://www.uxapprentice.com/resources/stakeholder-interview-template/
+
