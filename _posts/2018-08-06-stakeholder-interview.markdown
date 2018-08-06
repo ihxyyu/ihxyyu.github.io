@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "利益相关者访谈指南[TBD]"
+title:        "利益相关者访谈指南"
 subtitle:     "Stakeholder Interview 资料及工具"
 date:         2018-08-06 00:00:00
 author:       "Charles"
