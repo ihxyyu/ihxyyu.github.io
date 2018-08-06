@@ -5,44 +5,44 @@
     <description>Morning</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Aug 2018 16:02:10 -0700</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 16:02:10 -0700</lastBuildDate>
+    <pubDate>Mon, 06 Aug 2018 16:12:38 -0700</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 16:12:38 -0700</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>利益相关者访谈指南[TBD]</title>
-        <description>&lt;p&gt;##工具网站：&lt;/p&gt;
+        <title></title>
+        <description>&lt;h2 id=&quot;工具网站&quot;&gt;工具网站：&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;https://talebook.io/ &lt;strong&gt;调研辅助工具,EN&lt;/strong&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://talebook.io/&quot; title=&quot;Talebook&quot;&gt;talebook&lt;/a&gt;-调研辅助工具 &lt;code class=&quot;highlighter-rouge&quot;&gt;EN&lt;/code&gt;
 注册之后可以新建一个项目，里面有常见的所有调研模板比如竞品分析、用户访谈、利益相关者访谈、人物建模等等，可以直接套用在你的项目里。
-    &lt;blockquote&gt;
-      &lt;p&gt;免费一个月，一个月后收费：每月$8。&lt;/p&gt;
-    &lt;/blockquote&gt;
+免费一个月，一个月后收费：每月$8。&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;http://boxesandarrows.com/a-stakeholder-interview-checklist/ &lt;strong&gt;更多问题模板，EN&lt;/strong&gt;
-更详细的访谈问题模板，包括如何问市场、销售、项目管理、开发等部门的人。还有一些注意事项&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://boxesandarrows.com/a-stakeholder-interview-checklist/&quot;&gt;boxesandarrows&lt;/a&gt;-更多问题模板 &lt;code class=&quot;highlighter-rouge&quot;&gt;EN&lt;/code&gt;
+更详细的访谈问题模板，包括如何问市场、销售、项目管理、开发等部门的人。还有一些注意事项&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;资料网站：&lt;/p&gt;
+&lt;h2 id=&quot;资料网站&quot;&gt;资料网站：&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;https://zhuanlan.zhihu.com/p/36838131 （大概介绍用法）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/36838131%20&quot;&gt;利益相关者(Stakeholder) 是什么，在设计过程中是何角色？&lt;/a&gt;-大概介绍用法&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;提问模板：
-&lt;a href=&quot;https://www.uxapprentice.com/resources/stakeholder-interview-template/&quot;&gt;via&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;提问模板stakeholder-interview-template&quot;&gt;提问模板Stakeholder interview template：&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.uxapprentice.com/resources/stakeholder-interview-template/&quot;&gt;via&lt;/a&gt;
+The Stakeholder interview is a valuable step in understand the business and organization goals for any project.&lt;/p&gt;
 
-&lt;h1 id=&quot;stakeholder-interview&quot;&gt;Stakeholder interview&lt;/h1&gt;
-&lt;p&gt;The Stakeholder interview is a valuable step in understand the business and organization goals for any project.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-successful-stakeholder-interview-should-be-able-to-get-information-as-below&quot;&gt;A successful stakeholder interview should be able to get information as below:&lt;/h2&gt;
+&lt;h4 id=&quot;a-successful-stakeholder-interview-should-be-able-to-get-information-as-below&quot;&gt;A successful stakeholder interview should be able to get information as below:&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;WHY – The reason behind product requirements and priorities.&lt;/li&gt;
   &lt;li&gt;HOW – The superiority which the origination owns to make it successful.&lt;/li&gt;
   &lt;li&gt;WHAT – The product vision from stakeholders.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;some-tips-for-success&quot;&gt;Some tips for success:&lt;/h2&gt;
+&lt;h4 id=&quot;some-tips-for-success&quot;&gt;Some tips for success:&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;Note stakeholder responses to your questions rather than paraphrasing
 Allow the interview to go off-script if necessary.&lt;/li&gt;
@@ -51,7 +51,7 @@ Allow the interview to go off-script if necessary.&lt;/li&gt;
   &lt;li&gt;Be sure to understand “Must-have” and “Just mentioning”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;below-is-the-question-list-you-may-need-to-seek-for-answers&quot;&gt;Below is the question list you may need to seek for answers:&lt;/h2&gt;
+&lt;h4 id=&quot;below-is-the-question-list-you-may-need-to-seek-for-answers&quot;&gt;Below is the question list you may need to seek for answers:&lt;/h4&gt;
 &lt;ol&gt;
   &lt;li&gt;Why are we doing this?
     &lt;ol&gt;
@@ -75,13 +75,9 @@ Allow the interview to go off-script if necessary.&lt;/li&gt;
 &lt;/ol&gt;
 
 </description>
-        <pubDate>Mon, 06 Aug 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/08/06/stakeholder-interview/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/06/stakeholder-interview/</guid>
-        
-        <category>UX</category>
-        
-        <category>Stakeholder Interview</category>
+        <pubDate>Mon, 06 Aug 2018 16:12:38 -0700</pubDate>
+        <link>http://localhost:4000/2018/08/06/2018-08-06-stakeholder-interview/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/06/2018-08-06-stakeholder-interview/</guid>
         
         
       </item>
