@@ -31,8 +31,8 @@ tags:
 
 ---- 
 ## 提问模板：
-[原文地址][4]
-The Stakeholder interview is a valuable step in understand the business and organization goals for any project. 
+
+The Stakeholder interview is a valuable step in understand the business and organization goals for any project. [原文地址][4]
 
 #### A successful stakeholder interview should be able to get information as below:
 * WHY – The reason behind product requirements and priorities.
