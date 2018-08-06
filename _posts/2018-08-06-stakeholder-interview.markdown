@@ -30,8 +30,8 @@ tags:
 - [利益相关者(Stakeholder) 是什么，在设计过程中是何角色？][3]-大概介绍用法
 
 ---- 
-## 提问模板Stakeholder interview template：
-[via][4]
+## 提问模板：
+[原文地址][4]
 The Stakeholder interview is a valuable step in understand the business and organization goals for any project. 
 
 #### A successful stakeholder interview should be able to get information as below:
