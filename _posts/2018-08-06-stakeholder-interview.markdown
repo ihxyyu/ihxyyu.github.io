@@ -1,16 +1,16 @@
 ---
 layout:       post
 title:        "利益相关者访谈指南[TBD]"
-subtitle:     "Stakeholder Interview_资料及工具"
+subtitle:     "Stakeholder Interview 资料及工具"
 date:         2018-08-06 00:00:00
 author:       "Charles"
 header-mask:  0.3
 catalog:      true
 multilingual: false
 tags:
-    - UX
-    - 用研
-    - Stakeholder Interview
+	- UX
+	- 用研
+	- Stakeholder Interview
 ---
 
 
@@ -73,6 +73,6 @@ Allow the interview to go off-script if necessary.
 
 [1]:	https://talebook.io/ "Talebook"
 [2]:	http://boxesandarrows.com/a-stakeholder-interview-checklist/
-[3]:	https://zhuanlan.zhihu.com/p/36838131%20
+[3]:	https://zhuanlan.zhihu.com/p/36838131
 [4]:	https://www.uxapprentice.com/resources/stakeholder-interview-template/
 
