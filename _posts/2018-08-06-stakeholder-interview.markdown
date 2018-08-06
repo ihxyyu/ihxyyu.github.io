@@ -1,17 +1,17 @@
 ---
-layout:     post
+layout:       post
 title:        "利益相关者访谈指南[TBD]"
-subtitle:   "Stakeholder Interview资料及工具"
-date:       2018-08-06 
-author:     "Charles"
+subtitle:     "Stakeholder Interview_资料及工具"
+date:         2018-08-06 00:00:00
+author:       "Charles"
 header-mask:  0.3
 catalog:      true
 multilingual: false
 tags:
-	- UX
-	- Stakeholder Interview
+    - UX
+    - 用研
+    - Stakeholder Interview
 ---
-
 
 
 ## 工具网站：
