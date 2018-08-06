@@ -8,9 +8,9 @@ header-mask:  0.3
 catalog:      true
 multilingual: false
 tags:
-	- UX
-	- 用研
-	- Stakeholder Interview
+- UX
+- 用研
+- Stakeholder Interview
 ---
 
 
