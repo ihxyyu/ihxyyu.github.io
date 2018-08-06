@@ -5,8 +5,8 @@
     <description>Morning</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Aug 2018 16:40:10 -0700</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 16:40:10 -0700</lastBuildDate>
+    <pubDate>Mon, 06 Aug 2018 16:52:06 -0700</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 16:52:06 -0700</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -76,9 +76,9 @@ Allow the interview to go off-script if necessary.&lt;/li&gt;
 &lt;/ol&gt;
 
 </description>
-        <pubDate>Sun, 05 Aug 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/08/05/stakeholder-interview/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/05/stakeholder-interview/</guid>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/08/06/stakeholder-interview/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/06/stakeholder-interview/</guid>
         
         <category>UX</category>
         
