@@ -5,7 +5,7 @@ subtitle:     "Stakeholder Interview 资料及工具"
 date:         2018-08-06
 author:       "Charles"
 header-mask:  0.3
-catalog:      true
+catalog:      false
 multilingual: false
 tags:
 - UX
