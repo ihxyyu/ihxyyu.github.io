@@ -11,12 +11,12 @@ keyword: "UX"
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     huxpro
 # zhihu_username:     huxpro
 # github_username:    huxpro
 # #twitter_username:  huxpro
-# facebook_username:  huxpro
+facebook_username:  100016190316970
 
 
 
